@@ -1,0 +1,17 @@
+{"version_code":452892,"content":"
+<p>Update 9.87</p>
+
+<li>New Base Updated to 2.19.216 (Playstore) </li>
+<li>Anti-Ban </li>
+<li>Added option to Disable "Forward" tag  </li>
+<li>Added show Toast When Anyone Views your Status/Story</li>
+<li>Added Ability to download profile image</li>
+<li>Added option to Hide grey line between Status in Story Screen</li>
+<li>Improved option Dark Theme for ALL Settings</li>
+<li>Enabled All hidden features..</li>
+<li>Fixed Disable Heads-up for Oreo & Pie Users</li>
+<li>Fixed lag issue</li>
+
+
+","url":"https://www.jimzfreestuff.com"
+}
