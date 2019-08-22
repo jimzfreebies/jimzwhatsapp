@@ -2,7 +2,8 @@
 <p>Update 9.90</p>
 
 <li>New Base Updated to 2.19.150 </li>
-<li>Anti-Ban </li>
+<li>Themes Option Added</li>
+<li>More Anti-Ban </li>
 <li>Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
 <li>Added Option to Hide DND Mode Icon (mod 3.4.9)</li>
 <li>Fixed message details icon not showing on Chat ActionBar</li>
