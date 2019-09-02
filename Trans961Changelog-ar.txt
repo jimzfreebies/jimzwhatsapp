@@ -1,7 +1,8 @@
 {"version_code":452892,"content":"
 
 <p>Update 9.61</p>
-
+<li>Fresh Mod</li>
+<li>Renamed JiMz WhatsApp 2 To GbWhatsApp</li>
 <li>JiMz Icons</li>
 <li>Fully Transparent Mod</li>
 <li>Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
