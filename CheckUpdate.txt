@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'95', 'ver3':'14', 'ver4':'1', 'url':'', 'update':'0'}
+{'ver1':'9', 'ver2':'95', 'ver3':'14', 'ver4':'1', 'url':'http://www.jimzfreestuff.com/search/label/JiMz%20Whatsapp?max-results=4', 'update':'1'}
